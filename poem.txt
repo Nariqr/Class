@@ -3,6 +3,7 @@ purple
 pink
 organge 
 blue 
+indago
 green
 unicorn
 red 
